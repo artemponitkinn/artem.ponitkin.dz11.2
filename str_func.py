@@ -1,3 +1,6 @@
 def text_upper(text)->str:
-	'''this function is make upperCase for'''
+	'''This function make for test'''
 	return text.upper()
+def str_title(text)->str:
+	'''This function is make first char Upped'''
+	return text.title()
